@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> This project is about Hello Microverse repository. Contains one HTML and one CSS page.
+> Hello Microverse repository contains html and css.
 
 ![screenshot](./hello-microverse.png)
 
@@ -10,7 +10,7 @@ Coding project about gitworkflow.
 
 ## Built With
 
-- Html/CSS
+- html/css
 - Linters(html/css)
 
 
